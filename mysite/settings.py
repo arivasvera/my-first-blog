@@ -25,7 +25,9 @@ SECRET_KEY = '9++nq44r066nqd7c(xzk)+2xihau82xtc)3zrq03$gqfrwm7m!'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    'arivasvera.pythonanywhere.com'
+]
 
 
 # Application definition
